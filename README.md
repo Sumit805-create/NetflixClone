@@ -34,7 +34,7 @@ Razorpay Payment Gateway – Handles secure online payments.
 <img src="./images/Screenshot_20250211_123247.png" width=300/>
 <img src="./images/Screenshot_20250211_123243.png" width=300/>
 <img src="./images/Screenshot_20250211_123429.png" width=300/>
-<img src="./images/Screenshot_20250211_123429.png" width=300/>
+<img src="./images/Screenshot_20250211_123329.png" width=300/>
 <img src="./images/Screenshot_20250211_123433.png" width=300/>
 <img src="./images/Screenshot_20250211_123436.png" width=300/>
 <img src="./images/Screenshot_20250211_124023.png" width=300/>
